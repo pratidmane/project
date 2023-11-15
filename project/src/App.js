@@ -1,12 +1,12 @@
-import logo from './logo.svg';
+import App from './sharable-component/sharable-components/src/App';
 import './App.css';
 
-function App() {
+function Apps() {
   return (
     <div className="App">
-    
+      <App />
     </div>
   );
 }
 
-export default App;
+export default Apps;

@@ -1,0 +1,3 @@
+[submodule "project/sharable-component"]
+	path = project/sharable-component
+	url = https://github.com/pratidmane/test.git
